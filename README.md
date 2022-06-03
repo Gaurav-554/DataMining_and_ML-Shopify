@@ -15,4 +15,4 @@ The dataset contains time-series sales data for a span of 30 days as explained b
 
 <h2>Objective</h2>
 
-The objective is to see the impact of outliers on Average Order Value (AOV) and detect/remove them using iter-quartile analysis.
+The objective is to see the impact of outliers on Average Order Value (AOV) and detect/remove them using inter-quartile analysis.
